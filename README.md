@@ -1,1 +1,1 @@
-# se-bootcamp-github-io
+# http://se-bootcamp-github-io
